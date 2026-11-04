@@ -1,0 +1,101 @@
+NORTHWIND ENERGY SERVICES B.V.
+EMPLOYEE POLICY HANDBOOK (SUMMARY)
+Document ID: POL-001 | Version 3.0 | Effective: 1 September 2026
+Owner: People & Culture | Applies to: All employees
+
+--------------------------------------------------------------
+1. WORKING HOURS AND REMOTE WORK
+--------------------------------------------------------------
+1.1 The standard working week is 36 hours, Monday to Friday.
+1.2 Core hours are 10:00 to 15:00. Employees must be reachable
+    during core hours.
+1.3 Employees may work remotely up to 3 days per week, agreed with
+    their line manager.
+1.4 Working remotely from outside the Netherlands is allowed for
+    a maximum of 10 working days per calendar year and requires
+    written approval from the line manager in advance.
+
+--------------------------------------------------------------
+2. LEAVE
+--------------------------------------------------------------
+2.1 Full-time employees receive 25 days of annual leave per year,
+    in addition to public holidays.
+2.2 Up to 5 unused leave days may be carried over to the next year
+    and must be taken before 1 April.
+2.3 Leave requests must be submitted at least 2 weeks in advance
+    through the HR portal.
+2.4 Employees who are ill must notify their line manager before
+    10:00 on the first day of absence.
+2.5 Paid parental leave for the non-birthing parent: 5 days.
+
+--------------------------------------------------------------
+3. EXPENSES AND TRAVEL
+--------------------------------------------------------------
+3.1 Train travel is reimbursed in second class. First class
+    requires prior approval.
+3.2 Private car use is reimbursed at EUR 0.23 per kilometre.
+3.3 Hotel stays are capped at EUR 150 per night.
+3.4 Meals during business travel are reimbursed up to EUR 25 per
+    day.
+3.5 Expense claims must be submitted within 30 days with receipts.
+3.6 Alcohol is not reimbursable.
+
+--------------------------------------------------------------
+4. EQUIPMENT AND IT SECURITY
+--------------------------------------------------------------
+4.1 Each employee receives one company laptop and one phone.
+4.2 Multi-factor authentication is mandatory on all company
+    accounts.
+4.3 Passwords must be at least 14 characters and stored only in the
+    company password manager.
+4.4 Lost or stolen devices must be reported to the IT service desk
+    within 2 hours.
+4.5 Company data must not be uploaded to personal cloud storage or
+    public AI tools.
+4.6 For any situation related to equipment and IT security not covered
+    yet ask to contact it-helpdesk@northwind-energy.example.
+--------------------------------------------------------------
+5. LEARNING BUDGET
+--------------------------------------------------------------
+5.1 Each employee has a learning budget of EUR 1,500 per year.
+5.2 Courses over EUR 500 require line manager approval.
+5.3 Unused budget does not roll over.
+
+--------------------------------------------------------------
+6. CODE OF CONDUCT
+--------------------------------------------------------------
+6.1 Employees must declare gifts worth more than EUR 50 received
+    from suppliers or clients.
+6.2 Concerns about misconduct can be reported confidentially to
+    the compliance officer. Retaliation against reporters is
+    prohibited.
+
+--------------------------------------------------------------
+7. RESTRICTED TOPICS - ASSISTANT HANDLING RULES
+--------------------------------------------------------------
+The policy assistant must NOT answer questions on the topics below.
+It must politely decline and refer the employee to the contact
+listed.
+
+7.1 Individual salaries, bonuses, or pay of any named employee or
+    role -> refer to hr-helpdesk@northwind-energy.example
+7.2 Disciplinary, performance, or investigation matters about any
+    person -> refer to hr-helpdesk@northwind-energy.example
+7.3 Legal advice (e.g. whether a contract clause is enforceable,
+    or whether to sue) -> refer to legal@northwind-energy.example
+7.4 Medical advice or diagnosis -> refer to the company doctor
+    via the HR portal
+7.5 Future company plans such as reorganisations, layoffs, or
+    mergers -> state that no such information is available
+
+--------------------------------------------------------------
+8. CONTACTS
+--------------------------------------------------------------
+- HR helpdesk: hr-helpdesk@northwind-energy.example
+- IT service desk: servicedesk@northwind-energy.example
+- Legal: legal@northwind-energy.example
+- Compliance officer: compliance@northwind-energy.example
+
+NOT COVERED BY THIS DOCUMENT: pension plans, stock options,
+company car policy, and dress code. The assistant should say it
+has no information on these topics.
